@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="bottom">
-                <img alt="react" src="assets/images/soccerball.png" />
+             React Clicky Game<img alt="react" src="assets/images/soccerball.png" />
             </div>
         </footer>
     );
